@@ -2,16 +2,16 @@
 
 ### Description
 pivmugc provides web-based checkin functionality that was designed for a local
-chapter of the VMware User Group (VMUG). pivmugc is written in the Fat-Free
-Framework and was designed to be used on a Raspberry Pi. Although pivmugc can
-be used with any type of web server.  
+chapter of the VMware User Group (VMUG). This particular fork has been modified for the use of Philadelphia VMUG. 
+pivmugc is written in the Fat-Free Framework and was designed to be used on a Raspberry Pi. 
+Although pivmugc can be used with any type of web server.  
 
 [![pivmugc Front End Demo](https://s10.postimg.org/9pghci2c9/pi_frontend_demo_screenshot.jpg)](https://vimeo.com/177565807)
 
 ### Installation Method #1 (Script + Recommended)
 Start with a clean installation of Raspbian and issue the following commands:
 
-> wget https://raw.githubusercontent.com/tkrn/pivmugc/master/pivmugc_installer.sh
+> wget https://raw.githubusercontent.com/kenbshinn/pivmugc/master/pivmugc_installer.sh
 
 > chmod +x pivmugc_installer.sh
 
@@ -30,7 +30,7 @@ NGINX web server. The paths will vary for lighttpd or Apache installations.
 
 > cd /tmp
 
-> wget https://github.com/tkrn/pivmugc/archive/master.zip
+> wget https://github.com/kenbshinn/pivmugc/archive/master.zip
 
 > unzip master.zip
 
