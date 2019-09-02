@@ -11,7 +11,7 @@ Although pivmugc can be used with any type of web server.
 ### Installation Method #1 (Script + Recommended)
 Start with a clean installation of Raspbian and issue the following commands:
 
-> wget https://raw.githubusercontent.com/kenbshinn/pivmugc/tree/branch_Philadelphia/master/pivmugc_installer.sh
+> wget https://raw.githubusercontent.com/kenbshinn/pivmugc/master/pivmugc_installer.sh
 
 > chmod +x pivmugc_installer.sh
 
@@ -30,7 +30,7 @@ NGINX web server. The paths will vary for lighttpd or Apache installations.
 
 > cd /tmp
 
-> wget https://github.com/kenbshinn/pivmugc/tree/branch_Philadelphia/archive/master.zip
+> wget https://github.com/kenbshinn/pivmugc/archive/master.zip
 
 > unzip master.zip
 
