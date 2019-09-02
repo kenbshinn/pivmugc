@@ -2,7 +2,7 @@
 
 #
 # Raspberry Pi User Group Controller Scirpt Installer
-# URL: https://github.com/tkrn/pivmugc/
+# URL: https://github.com/kenbshinn/pivmugc/
 # Release Date: 2017-09-21
 # Verion: 2.3
 # 2.3 Release Notes: Removed compiling component, installing dymo drivers via apt-get
@@ -12,7 +12,7 @@
 # Start Variables
 #
 
-PIVMUGCURL="https://github.com/tkrn/pivmugc/archive/master.zip"
+PIVMUGCURL="https://github.com/kenbshinn/pivmugc/archive/master.zip"
 
 #
 # End Variables
